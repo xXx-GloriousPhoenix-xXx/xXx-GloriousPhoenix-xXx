@@ -14,8 +14,6 @@
 
 </div>
 
-<img src="https://svgshare.com/i/12kT.svg" width="100%" height="1px">
-
 ## Tech Stack & Tools
 
 ### Frontend
@@ -38,16 +36,12 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
-<img src="https://svgshare.com/i/12kT.svg" width="100%" height="1px">
-
 ## GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xXx-GloriousPhoenix-xXx&layout=compact&theme=radical&hide_border=true&langs_count=8" height='180em' />
   <img src="https://github-readme-stats.vercel.app/api?username=xXx-GloriousPhoenix-xXx&show_icons=true&theme=radical&hide_border=true" height='180em' />
 </div>
-
-<img src="https://svgshare.com/i/12kT.svg" width="100%" height="1px">
 
 ## Featured Project
 
@@ -65,13 +59,9 @@ Provides a user-friendly interface with a **template & report editor**, allowing
 **Tech:**  
 React (TypeScript, Redux), C# (ASP.NET, EF Core), MSSQL
 
-<img src="https://svgshare.com/i/12kT.svg" width="100%" height="1px">
-
 ## Activity Graph
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=xXx-GloriousPhoenix-xXx&bg_color=0d1117&color=ffffff&line=ff5500&point=ff9500&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<img src="https://svgshare.com/i/12kT.svg" width="100%" height="1px">
 
 ## Currently Learning
 
@@ -79,14 +69,10 @@ React (TypeScript, Redux), C# (ASP.NET, EF Core), MSSQL
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
-<img src="https://svgshare.com/i/12kT.svg" width="100%" height="1px">
-
 ## Let's Connect
 
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:prikhodjko.roman@gmail.com)
 
 [![Telegram](https://img.shields.io/badge/Telegram-Message%20Me-blue?style=for-the-badge&logo=telegram)](https://t.me/romanpryu)
-
-<img src="https://svgshare.com/i/12kT.svg" width="100%" height="1px">
 
 **From [xXx-GloriousPhoenix-xXx](https://github.com/xXx-GloriousPhoenix-xXx)**
