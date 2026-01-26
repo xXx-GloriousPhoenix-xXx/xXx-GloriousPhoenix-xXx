@@ -71,23 +71,20 @@ Provides a user-friendly interface with a **template & report editor**, allowing
 
 **Screenshots**
 
-<div align='center'>
+<div align="center">
     <img src="media/zvitplus/Main.png" alt="Main page" width="700">
     <p><strong>Main page</strong> - Overview of statistics and main links</p>
 </div>
 
-<div align='center'>
-    <div style="display: inline-block; margin: 0 1em;">
-        <img src="media/zvitplus/Template.png" alt="Template Page" width="350"><br>
-        <strong>Template page</strong><br>
-        <small>List of accessible templates</small>
-    </div>
-    <div style="display: inline-block; margin: 0 1em;">
-        <img src="media/zvitplus/Editor.png" alt="Editor Page" width="350"><br>
-        <strong>Editor page</strong><br>
-        <small>Editor for template structure</small>
-    </div>
-</div>
+<p align="center">
+    <img src="media/zvitplus/Template.png" alt="Template Page" width="45%">
+    <img src="media/zvitplus/Editor.png" alt="Editor Page" width="45%">
+</p>
+
+<p align="center">
+    <strong>Template page</strong> (left) &bull; <strong>Editor page</strong> (right)<br>
+    <small>List of accessible templates</small> &bull; <small>Editor for template structure</small>
+</p>
 
 ## Activity Graph
 
