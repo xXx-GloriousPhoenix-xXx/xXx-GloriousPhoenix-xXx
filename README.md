@@ -1,15 +1,77 @@
-<h1 align="center">Hi 👋, I'm Roman</h1>
-<h3 align="center">A full-stack developer from Ukraine you are looking for</h3>
+<div align="center">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/roman-prikhodjko-6b5514332/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/roman-prikhodjko-6b5514332/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/gloriousphoenix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gloriousphoenix" height="30" width="40" /></a>
-</p>
+# Hi, I'm Roman
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### **Full-Stack Developer** crafting digital experiences from Ukraine
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gloriousphoenix&show_icons=true&locale=en&layout=compact" alt="gloriousphoenix" /></p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/roman-prikhodjko-6b5514332/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Solutions-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/gloriousphoenix/)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/gloriousphoenix)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gloriousphoenix&show_icons=true&locale=en" alt="gloriousphoenix" /></p>
+---
+
+## **Tech Stack & Tools**
+
+<div style="display: flex; flex-wrap: wrap; gap: 15px; margin: 0;">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,redux,html,css,tailwind" alt="Frontend Technologies" />
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 15px; margin: 0;">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,mssql" alt="Backend Technologies" />
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 15px; margin: 0;">
+  <img src="https://skillicons.dev/icons?i=git,figma,postman,selenium" alt="Tools" />
+</div>
+
+---
+
+## **GitHub Stats**
+
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xXx-GloriousPhoenix-xXx&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+</div>
+
+![Commits](https://img.shields.io/badge/Коммиты-1,234-blue?style=for-the-badge&logo=github&color=radical)
+![Repositories](https://img.shields.io/badge/Репозитории-45-green?style=for-the-badge&logo=github&color=radical)
+
+---
+
+## **Featured Projects**
+
+### **ZvitPlus**
+
+> Project made for my third grade course work
+> It's designed to help users with creating reports for different goals
+> It provides user-friendly interface alongside with template & report editor, which allows to create a desired structure of template for further usage, such as editing it and creating reports based on this template
+> **Tech:** React (Typescript, Redux), C# (ASP.NET, EFCore), MSSQL
+
+---
+
+## **Activity Graph**
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xXx-GloriousPhoenix-xXx&bg_color=0d1117&color=ffffff&line=ff5500&point=ff9500&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+## **Currently Learning**
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+  <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+</div>
+
+---
+
+## **Let's Connect!**
+
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:your-email@example.com)
+[![Telegram](https://img.shields.io/badge/Telegram-Message%20Me-blue?style=for-the-badge&logo=telegram)](https://t.me/yourusername)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow%20Me-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/yourusername)
+
+---
+
+**From [xXx-GloriousPhoenix-xXx](https://github.com/xXx-GloriousPhoenix-xXx)**
+
+</div>
