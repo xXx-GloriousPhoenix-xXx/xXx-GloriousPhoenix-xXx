@@ -56,7 +56,7 @@ Provides a user-friendly interface with a **template & report editor**, allowing
 - editing templates
 - generating reports based on templates
 
-**Tech:**
+**Tech**
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
@@ -64,10 +64,36 @@ Provides a user-friendly interface with a **template & report editor**, allowing
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-![EF Core](https://img.shields.io/badge/EF%20Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![.NET-ASP.NET Core](https://img.shields.io/badge/.NET-ASP.NET%20Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![.NET-EF Core](https://img.shields.io/badge/.NET-EF%20Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+
+**Screenshots**
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" colspan="2">
+        <img src="media/zvitplus/Main.png" alt="Main page" width="600"><br>
+        <b>Main page</b><br>
+        Overview of statistics and main links
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <img src="media/zvitplus/Template.png" alt="Template Page" width="300"><br>
+        <b>Template page</b><br>
+        List of accessible templates and main links
+      </td>
+      <td align="center" width="50%">
+        <img src="media/zvitplus/Editor.png" alt="Editor Page" width="300"><br>
+        <b>Editor page</b><br>
+        Editor for template structure
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## Activity Graph
 
