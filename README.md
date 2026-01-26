@@ -16,9 +16,13 @@
 
 ## **Tech Stack & Tools**
 
+<div style='display: flex; flex-flow: column nowrap; gap: 1em;'>
+
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,redux,html,css,tailwind)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,postgres,mssql)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=git,figma,postman,selenium)](https://skillicons.dev)
+
+</div>
 
 ---
 
