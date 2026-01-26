@@ -77,8 +77,8 @@ Provides a user-friendly interface with a **template & report editor**, allowing
 </div>
 
 <p align="center">
-    <img src="media/zvitplus/Template.png" alt="Template Page" width="45%">
-    <img src="media/zvitplus/Editor.png" alt="Editor Page" width="45%">
+    <img src="media/zvitplus/Template.png" alt="Template Page" width="350">
+    <img src="media/zvitplus/Editor.png" alt="Editor Page" width="350">
 </p>
 
 <p align="center">
