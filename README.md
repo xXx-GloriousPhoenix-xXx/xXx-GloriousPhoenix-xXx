@@ -43,13 +43,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=xXx-GloriousPhoenix-xXx&show_icons=true&theme=radical&hide_border=true" height='180em' />
 </div>
 
-<div>
-  
-![](https://github-readme-stats.vercel.app/api?username=xXx-GloriousPhoenix-xXx&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=xXx-GloriousPhoenix-xXx&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-</div>
-
 ## Featured Project
 
 ### ZvitPlus
@@ -63,7 +56,16 @@ Provides a user-friendly interface with a **template & report editor**, allowing
 - editing templates
 - generating reports based on templates
 
-**Tech:**  
+**Tech:**
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+
 React (TypeScript, Redux), C# (ASP.NET, EF Core), MSSQL
 
 ## Activity Graph
@@ -72,9 +74,8 @@ React (TypeScript, Redux), C# (ASP.NET, EF Core), MSSQL
 
 ## Currently Learning
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 
 ## Let's Connect
 
