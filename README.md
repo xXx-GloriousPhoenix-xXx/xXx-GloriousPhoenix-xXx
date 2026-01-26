@@ -43,6 +43,13 @@
   <img src="https://github-readme-stats.vercel.app/api?username=xXx-GloriousPhoenix-xXx&show_icons=true&theme=radical&hide_border=true" height='180em' />
 </div>
 
+<div>
+  
+![](https://github-readme-stats.vercel.app/api?username=xXx-GloriousPhoenix-xXx&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=xXx-GloriousPhoenix-xXx&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+</div>
+
 ## Featured Project
 
 ### ZvitPlus
