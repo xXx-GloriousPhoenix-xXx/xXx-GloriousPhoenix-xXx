@@ -2,7 +2,7 @@
 
 # Hi, I'm Roman
 
-### **Full-Stack Developer** crafting digital experiences from Ukraine
+**Full-Stack Developer** crafting digital experiences from Ukraine
 
 <div align='left'>
 
@@ -12,21 +12,28 @@
 
 </div>
 
----
+<hr style='height: 1px'>
 
-## **Tech Stack & Tools**
+## Tech Stack & Tools
 
-<div style='display: flex; flex-flow: column nowrap; gap: 1em;'>
+<div style='display: flex; flex-flow: column nowrap; align-items: start'>
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,redux,html,css,tailwind)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,postgres,mssql)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,ts,redux,tailwind)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=dotnet,postgres,mssql)](https://skillicons.dev)
+
 [![My Skills](https://skillicons.dev/icons?i=git,figma,postman,selenium)](https://skillicons.dev)
 
 </div>
 
----
+<div style='grid grid-flow-row'>
 
-## **GitHub Stats**
+</div>
+
+<hr style='height: 1px'>
+
+## GitHub Stats
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xXx-GloriousPhoenix-xXx&layout=compact&theme=radical&hide_border=true&langs_count=8" />
@@ -41,42 +48,47 @@
 
 </div>
 
----
+<hr style='height: 1px'>
 
-## **Featured Projects**
+## Featured Projects
 
-### **ZvitPlus**
+<h3 align='left'>ZvitPlus</h3>
 
-> Project made for my third grade course work
-> It's designed to help users with creating reports for different goals
-> It provides user-friendly interface alongside with template & report editor, which allows to create a desired structure of template for further usage, such as editing it and creating reports based on this template
-> **Tech:** React (Typescript, Redux), C# (ASPNET, EFCore), MSSQL
+<div align="left" style='border-left: 0.25em solid rgb(61,68,77); padding-left: 1em;'>
+  <p><strong>Project made for my third grade course work</strong></p>
+  <p>It's designed to help users with creating reports for different goals</p>
+  <p>It provides user-friendly interface alongside with template & report editor, which allows to create a desired structure of template for further usage, such as editing it and creating reports based on this template</p>
+  <p><strong>Tech:</strong> React (Typescript, Redux), C# (ASPNET, EFCore), MSSQL</p>
+</div>
 
----
+<hr style='height: 1px'>
 
-## **Activity Graph**
+## Activity Graph
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xXx-GloriousPhoenix-xXx&bg_color=0d1117&color=ffffff&line=ff5500&point=ff9500&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
----
+<hr style='height: 1px'>
 
-## **Currently Learning**
+## Currently Learning
 
 <div style="display: flex; flex-wrap: wrap; gap: 1em; justify-content: center;">
-  <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
 </div>
 
----
+<hr style='height: 1px'>
 
-## **Let's Connect!**
+## Let's Connect!
 
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:your-email@example.com)
-[![Telegram](https://img.shields.io/badge/Telegram-Message%20Me-blue?style=for-the-badge&logo=telegram)](https://t.me/yourusername)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow%20Me-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/yourusername)
+<div align="left">
 
----
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:prikhodjko.roman@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-Message%20Me-blue?style=for-the-badge&logo=telegram)](https://t.me/@romanpryu)
+
+</div>
+
+<hr style='height: 1px'>
 
 **From [xXx-GloriousPhoenix-xXx](https://github.com/xXx-GloriousPhoenix-xXx)**
 
