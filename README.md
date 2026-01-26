@@ -71,28 +71,24 @@ Provides a user-friendly interface with a **template & report editor**, allowing
 
 **Screenshots**
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" colspan="2">
-        <img src="media/zvitplus/Main.png" alt="Main page" width="600"><br>
-        <b>Main page</b><br>
-        Overview of statistics and main links
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="50%">
-        <img src="media/zvitplus/Template.png" alt="Template Page" width="300"><br>
-        <b>Template page</b><br>
-        List of accessible templates and main links
-      </td>
-      <td align="center" width="50%">
-        <img src="media/zvitplus/Editor.png" alt="Editor Page" width="300"><br>
-        <b>Editor page</b><br>
-        Editor for template structure
-      </td>
-    </tr>
-  </table>
+<div align='center'>
+    <img src="media/zvitplus/Main.png" alt="Main page" width="700">
+    <p><strong>Main page</strong> - Overview of statistics and main links</p>
+</div>
+
+<div align='center'>
+    <div style="display: inline-block; margin: 0 1em;">
+        <img src="media/zvitplus/Template.png" alt="Template Page" width="350"><br>
+        <strong>Template page</strong><br>
+        <small>List of accessible templates</small>
+    </div>
+    <div style="display: inline-block; margin: 0 1em;">
+        <img src="media/zvitplus/Editor.png" alt="Editor Page" width="350"><br>
+        <strong>Editor page</strong><br>
+        <small>Editor for template structure</small>
+    </div>
+</div>
+
 </div>
 
 ## Activity Graph
