@@ -9,9 +9,7 @@
 <div align="left">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/roman-prikhodjko-6b5514332/)
-
 [![LeetCode](https://img.shields.io/badge/LeetCode-Solutions-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/gloriousphoenix/)
-
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/gloriousphoenix)
 
 </div>
