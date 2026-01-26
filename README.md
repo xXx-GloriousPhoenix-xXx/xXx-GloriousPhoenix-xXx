@@ -72,7 +72,6 @@ React (TypeScript, Redux), C# (ASP.NET, EF Core), MSSQL
 ## Let's Connect
 
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:prikhodjko.roman@gmail.com)
-
 [![Telegram](https://img.shields.io/badge/Telegram-Message%20Me-blue?style=for-the-badge&logo=telegram)](https://t.me/romanpryu)
 
 **From [xXx-GloriousPhoenix-xXx](https://github.com/xXx-GloriousPhoenix-xXx)**
