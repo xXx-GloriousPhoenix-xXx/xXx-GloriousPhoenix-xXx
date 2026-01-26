@@ -82,8 +82,8 @@ Provides a user-friendly interface with a **template & report editor**, allowing
 </p>
 
 <p align="center">
-    <strong>Template page</strong> (left) &bull; <strong>Editor page</strong> (right)<br>
-    <small>List of accessible templates</small> &bull; <small>Editor for template structure</small>
+    <strong>Template page</strong> &bull; <strong>Editor page</strong><br>
+    <small>&nbsp;&nbsp;&nbsp;List of accessible templates</small> &bull; <small>Editor for template structure</small>
 </p>
 
 ## Activity Graph
