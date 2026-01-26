@@ -43,11 +43,8 @@
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xXx-GloriousPhoenix-xXx&layout=compact&theme=radical&hide_border=true&langs_count=8" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xXx-GloriousPhoenix-xXx&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xXx-GloriousPhoenix-xXx&layout=compact&theme=radical&hide_border=true&langs_count=8" height='180em' />
+  <img src="https://github-readme-stats.vercel.app/api?username=xXx-GloriousPhoenix-xXx&show_icons=true&theme=radical&hide_border=true" height='180em' />
 </div>
 
 ---
