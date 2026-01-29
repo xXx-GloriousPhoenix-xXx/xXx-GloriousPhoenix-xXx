@@ -89,6 +89,34 @@ Provides a user-friendly interface with a **template & report editor**, allowing
     <small>&nbsp;&nbsp;&nbsp;List of accessible templates</small> &bull; <small>Editor for template structure</small>
 </p>
 
+### Wallet
+
+**Project is under development**
+
+Provides functionality of:
+- Adding and removing cards
+- Setting a particular card as primary for payment
+- Setting automatic recharge
+
+Developing based on figma prototype:
+https://dribbble.com/shots/23941276-Wallet-Page-Interactions
+
+Goal of project is training Tailwind development skills
+
+Tech:
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+Screenshots:
+<p align="center" width="600">
+    <img src="./docs/Wallet.png" width="150">
+    <img src="./docs/AddCard.png" width="150">
+    <img src="./docs/Buy.png" width="150">
+</p>
+
 ## Activity Graph
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=xXx-GloriousPhoenix-xXx&bg_color=0d1117&color=ffffff&line=ff5500&point=ff9500&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
