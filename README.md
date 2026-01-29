@@ -111,10 +111,10 @@ Tech:
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 Screenshots:
-<p align="center" width="600">
-    <img src="./docs/Wallet.png" width="150">
-    <img src="./docs/AddCard.png" width="150">
-    <img src="./docs/Buy.png" width="150">
+<p align="center" width="800">
+    <img src="media/wallet/Wallet.png" width="250">
+    <img src="media/wallet/AddCard.png" width="250">
+    <img src="media/wallet/Buy.png" width="250">
 </p>
 
 ## Activity Graph
