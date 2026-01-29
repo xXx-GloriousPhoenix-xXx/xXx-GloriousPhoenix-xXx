@@ -96,6 +96,7 @@ Provides a user-friendly interface with a **template & report editor**, allowing
 ## Currently Learning
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![ASP.NET-Core-SignalR](https://img.shields.io/badge/ASP.NET%20Core%20SignalR-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 
 ### Planned to Learn
 
