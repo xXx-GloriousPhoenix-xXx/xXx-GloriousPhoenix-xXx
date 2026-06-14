@@ -122,11 +122,12 @@ Screenshots:
 
 ## Currently Learning
 
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![ASP.NET-Core-SignalR](https://img.shields.io/badge/ASP.NET%20Core%20SignalR-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![Angular js](https://img.shields.io/badge/angular.js-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 ### Planned to Learn
 
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![ASP.NET-Core-SignalR](https://img.shields.io/badge/ASP.NET%20Core%20SignalR-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
